@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌟 I'm currently attending a apprenticeship as IT specialists for application development<br>- 🔭 I’m currently working on: 🤫<br>- 🌱 I’m currently learning: C/C++</p>
+<p align="left">- 🌟 I'm currently attending an apprenticeship as IT specialists for application development<br>- 🔭 I’m currently working on: 🤫<br>- 🌱 I’m currently learning: C/C++</p>
 
 ###
 
