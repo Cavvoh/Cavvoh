@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌟 I'm currently attending an apprenticeship as IT specialists for application development<br>- 🔭 I’m currently working on: 🤫<br>- 🌱 I’m currently learning: C/C++</p>
+<p align="left">- 🌟 I'm currently attending an apprenticeship as IT specialists for application development<br>- 🔭 I’m currently working on: 🤫<br>- 🌱 I’m currently learning: C/C++ and Rust</p>
 
 ###
 
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
 </div>
 
 ###
