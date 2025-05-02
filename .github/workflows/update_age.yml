@@ -20,9 +20,6 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Run age update script
         run: node update_age.js
 
