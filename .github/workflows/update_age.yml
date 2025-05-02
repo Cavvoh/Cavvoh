@@ -1,0 +1,36 @@
+name: README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run age update script
+        run: node update_age.js
+
+      - name: Commit changes
+        run: |-
+          git add .
+          git diff
+          git config --global user.email "github-actions-bot@cavvoh.github.io"
+          git config --global user.name "Cavvoh/GitHub-Actions-Bot"
+          git commit -m "Updated README" -a || echo "No changes to commit"
+          git push
