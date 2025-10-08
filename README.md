@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌟 I'm currently attending an apprenticeship as IT specialists for application development<br>- 🔭 I’m currently working on: 🤫<br>- 🌱 I’m currently learning: C/C++ and Rust</p>
+<p align="left">- 🌟 I'm currently attending an apprenticeship as IT specialists for application development<br>- 🔭 I’m currently working on: 🤫<br>- 🌱 I’m currently learning: C/C++</p>
 
 ###
 
@@ -19,13 +19,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.0/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
 ###
